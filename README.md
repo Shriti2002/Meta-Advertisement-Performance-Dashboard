@@ -72,19 +72,5 @@ This dashboard enables teams to:
 
 ---
 
-## 🚀 Skills Demonstrated
-- Data Analyst  
-- Marketing Analyst  
-- Power BI Dashboard  
-- Business Intelligence  
-- KPI Development  
-- Funnel Analysis  
-- ROI Optimization  
-- Campaign Performance Analysis  
-- Stakeholder Reporting  
-- Data Visualization  
-
----
-
 ## ⭐ Why This Project Matters
 This project demonstrates the ability to **translate complex marketing data into clear, actionable insights**, bridging the gap between **technical analysis and business decision-making** — a critical skill for **Data Analyst, Business Analyst, and Marketing Analyst roles**.
